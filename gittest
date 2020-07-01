@@ -11,8 +11,5 @@ this is master.
 this is new branch
 12 new branch 2 && 3
 13 branch 2
-<<<<<<< HEAD
 14 branch new 2-1
-=======
-14 branch 2
->>>>>>> 2 14
+15 branch 2
