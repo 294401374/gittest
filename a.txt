@@ -2,4 +2,4 @@ a.txt
 branch
 line three
 line four
-line five
+>>>>>>> parent of c2d6d8e... a.txt add line 4
