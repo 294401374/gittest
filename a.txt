@@ -1,3 +1,4 @@
 a.txt
 branch
 line three
+line four
